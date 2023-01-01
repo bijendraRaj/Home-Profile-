@@ -34,4 +34,4 @@
 
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/https://www.instagram.com/invites/contact/?i=1xov3wpj3wkm7&utm_content=3khhnsm"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="https://www.instagram.com/invites/contact/?i=1xov3wpj3wkm7&utm_content=3khhnsm" /></a><a href="https://ko-fi.com/https://www.instagram.com/invites/contact/?i=1xov3wpj3wkm7&utm_content=3khhnsm"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="https://www.instagram.com/invites/contact/?i=1xov3wpj3wkm7&utm_content=3khhnsm" /></a></p><br><br>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">Python developer from India</h3>
