@@ -37,6 +37,3 @@
 
 <h3 align="center">Python developer from India</h3><p aglin="center"></p>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left"><a href="https://www.instagram.com/invites/contact/?i=1xov3wpj3wkm7&utm_content=3khhnsm">
-</p>
